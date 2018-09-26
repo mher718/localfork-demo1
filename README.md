@@ -1,3 +1,3 @@
-# readme from develop branch
+## Readme from master branch
 
-## email: elmer.q.amigleo@gmail.com
+# email: elmer.q.amigleo@gmail.com

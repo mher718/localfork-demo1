@@ -1,3 +1,3 @@
-# LICENSE
+## LICENSE
 
-## license from develop branch
+# license from master branch
